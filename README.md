@@ -12,3 +12,6 @@ after you do everything it says, go to this link to claim it.
 https://discord.com/developers/active-developer
 
 it takes 15 mins to 24 hours to get the badge. so check https://discord.com/developers/active-developer after 24 hours.
+
+if you face any error, contact me;
+# https://vamp.bio/encrypted
